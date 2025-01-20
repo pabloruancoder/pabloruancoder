@@ -72,3 +72,11 @@
 ---
 
 ### 🌟 Sempre aprendendo e explorando novas tecnologias! 🚀
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/pabloruancoder/pabloruancoder/output/snake.svg" alt="Snake animation" />
+
+###
