@@ -1,5 +1,5 @@
 #### **Sobre Mim**
-💻 Analista e Desenvolvedor de Sistemas Jr
+💻 Analista e Desenvolvedor de Sistemas Jr  
 📚 Técnico em Análise e Desenvolvimento de Sistemas | Cursando Administração  
 🎯 Focado em: RH, Automação e IA  
 
