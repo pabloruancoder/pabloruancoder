@@ -2,19 +2,6 @@
 💻 Analista e Desenvolvedor de Sistemas Jr  
 📚 Técnico em Análise e Desenvolvimento de Sistemas | Cursando Administração  
 🎯 Focado em: RH, Automação e IA  
-<div style="display: flex; align-items: center;">
-  <p style="margin-right: 10px;">Python:</p>
-  <div style="width: 200px; height: 10px; background: #ddd; border-radius: 5px; overflow: hidden;">
-    <div style="width: 90%; height: 100%; background: linear-gradient(90deg, #4caf50, #81c784);"></div>
-  </div>
-</div>
-<div style="display: flex; align-items: center; margin-top: 5px;">
-  <p style="margin-right: 10px;">JavaScript:</p>
-  <div style="width: 200px; height: 10px; background: #ddd; border-radius: 5px; overflow: hidden;">
-    <div style="width: 75%; height: 100%; background: linear-gradient(90deg, #fbc02d, #ffeb3b);"></div>
-  </div>
-</div>
-
 
 #### **Habilidades e Tecnologias**  
 - **Linguagens de Programação:**  
