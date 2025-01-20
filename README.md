@@ -27,10 +27,3 @@
 🌟 Sempre aprendendo e explorando novas tecnologias! 🚀  
 
 ---
-
-### **Como Implementar**  
-1. **Usando Markdown**: Se a plataforma aceita Markdown, você pode usar ícones e badges como os acima.  
-2. **Customização Avançada**: Para algo mais dinâmico (como gráficos de status ou cards), você pode usar ferramentas como:  
-   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
-   - [Shields.io](https://shields.io/)  
-   - [Wakatime](https://wakatime.com/) para monitorar o tempo gasto em linguagens e ferramentas.  
