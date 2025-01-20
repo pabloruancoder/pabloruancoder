@@ -1,5 +1,5 @@
 #### **Sobre Mim**
-💻 **Analista e Desenvolvedor de Sistemas Jr.**  
+💻 Analista e Desenvolvedor de Sistemas Jr
 📚 Técnico em Análise e Desenvolvimento de Sistemas | Cursando Administração  
 🎯 Focado em: RH, Automação e IA  
 
@@ -18,12 +18,5 @@
   - Integração de APIs  
   - Cloud Computing (Google Cloud, Cloud Run)  
   - Instalação e configuração de servidores (Red Hat 8)  
-
-#### **Status Atual**
-📂 **Projetos Atuais:**  
-- Novo sistema para RH com automações e IA  
-- Integração com BigQuery para análise de dados  
-
-🌟 Sempre aprendendo e explorando novas tecnologias! 🚀  
-
 ---
+![PabloRuanCoder GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloruancoder&show_icons=true&theme=radical)
